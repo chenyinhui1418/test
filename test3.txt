@@ -7,3 +7,4 @@ conflict of master and chen have solved
 no-ff
 fast-forward
 muti branch
+bug bug bug
