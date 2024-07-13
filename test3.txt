@@ -3,4 +3,4 @@ hope recovery quickly
 hope hope hope
 hope
 new branch
-conflict of master and chen
+conflict of master and chen have solved
