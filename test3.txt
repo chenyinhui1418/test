@@ -8,3 +8,6 @@ no-ff
 fast-forward
 muti branch
 bug bug bug
+bug
+bug
+bug
