@@ -4,3 +4,4 @@ hope hope hope
 hope
 new branch
 conflict of master and chen have solved
+no-ff
